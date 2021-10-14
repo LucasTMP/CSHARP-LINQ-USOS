@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Last", "Last\Last.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Union", "Union\Union.csproj", "{05F4F92A-4361-4BEC-BA1D-B05AC27737A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersect", "Intersect\Intersect.csproj", "{6C20E807-1131-45F2-9957-B3F4085B6ED4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{05F4F92A-4361-4BEC-BA1D-B05AC27737A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05F4F92A-4361-4BEC-BA1D-B05AC27737A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05F4F92A-4361-4BEC-BA1D-B05AC27737A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C20E807-1131-45F2-9957-B3F4085B6ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C20E807-1131-45F2-9957-B3F4085B6ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C20E807-1131-45F2-9957-B3F4085B6ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C20E807-1131-45F2-9957-B3F4085B6ED4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
