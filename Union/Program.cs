@@ -8,7 +8,7 @@ namespace Union
     {
         static void Main(string[] args)
         {
-            Union();
+            Union(); //Link para teste online: https://dotnetfiddle.net/fDKkH1
         }
 
         public static void Union()
