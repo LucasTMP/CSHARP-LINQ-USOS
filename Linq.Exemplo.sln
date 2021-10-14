@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Union", "Union\Union.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersect", "Intersect\Intersect.csproj", "{6C20E807-1131-45F2-9957-B3F4085B6ED4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploCodingame", "ExemploCodingame\ExemploCodingame.csproj", "{FEE01327-8B0C-4713-9EF5-F212DDC8CC98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploQueryLinq", "ExemploQueryLinq\ExemploQueryLinq.csproj", "{77D87C4F-7CA3-4748-AA51-2825A4DDD1C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{6C20E807-1131-45F2-9957-B3F4085B6ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C20E807-1131-45F2-9957-B3F4085B6ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C20E807-1131-45F2-9957-B3F4085B6ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE01327-8B0C-4713-9EF5-F212DDC8CC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE01327-8B0C-4713-9EF5-F212DDC8CC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE01327-8B0C-4713-9EF5-F212DDC8CC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE01327-8B0C-4713-9EF5-F212DDC8CC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D87C4F-7CA3-4748-AA51-2825A4DDD1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D87C4F-7CA3-4748-AA51-2825A4DDD1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D87C4F-7CA3-4748-AA51-2825A4DDD1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D87C4F-7CA3-4748-AA51-2825A4DDD1C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
