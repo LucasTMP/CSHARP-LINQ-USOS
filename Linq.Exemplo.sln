@@ -3,35 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prints", "Prints\Prints.csproj", "{77098341-4B78-4A34-8CF6-4798713FC997}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prints", "Prints\Prints.csproj", "{77098341-4B78-4A34-8CF6-4798713FC997}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Where", "Where\Where.csproj", "{494CB378-F6B4-495D-AB3C-A1D7C473D658}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Where", "Where\Where.csproj", "{494CB378-F6B4-495D-AB3C-A1D7C473D658}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Select", "Select\Select.csproj", "{B024BBFF-62C1-4835-A19D-CBDCCA810A1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Select", "Select\Select.csproj", "{B024BBFF-62C1-4835-A19D-CBDCCA810A1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAverageCount", "SumAverageCount\SumAverageCount.csproj", "{34E8000F-C4A0-48CB-8712-6257F8664784}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumAverageCount", "SumAverageCount\SumAverageCount.csproj", "{34E8000F-C4A0-48CB-8712-6257F8664784}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMix", "MaxMix\MaxMix.csproj", "{57C59A6A-D16C-4DED-80C4-96455E959BA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMix", "MaxMix\MaxMix.csproj", "{57C59A6A-D16C-4DED-80C4-96455E959BA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderBy", "OrderBy\OrderBy.csproj", "{D0C74A29-3823-441A-9ED8-44197B06D422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderBy", "OrderBy\OrderBy.csproj", "{D0C74A29-3823-441A-9ED8-44197B06D422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThenBy", "ThenBy\ThenBy.csproj", "{1031BF56-413F-42A6-A682-B1EF630B489A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThenBy", "ThenBy\ThenBy.csproj", "{1031BF56-413F-42A6-A682-B1EF630B489A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse", "Reverse\Reverse.csproj", "{40E1B973-6D45-4111-8133-CFCDA7D007A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse", "Reverse\Reverse.csproj", "{40E1B973-6D45-4111-8133-CFCDA7D007A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkipTake", "SkipTake\SkipTake.csproj", "{BB9DC3D3-8EEF-4494-9829-14543307261B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkipTake", "SkipTake\SkipTake.csproj", "{BB9DC3D3-8EEF-4494-9829-14543307261B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBy", "GroupBy\GroupBy.csproj", "{6C0C476D-BBC9-4AEE-AA2C-C6003999E763}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupBy", "GroupBy\GroupBy.csproj", "{6C0C476D-BBC9-4AEE-AA2C-C6003999E763}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aggregate", "Aggregate\Aggregate.csproj", "{B06B965D-A99E-4310-9844-DC9E9D2A7A3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aggregate", "Aggregate\Aggregate.csproj", "{B06B965D-A99E-4310-9844-DC9E9D2A7A3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All", "All\All.csproj", "{A9DD9000-94FD-490D-B881-F0B93729AEC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "All", "All\All.csproj", "{A9DD9000-94FD-490D-B881-F0B93729AEC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Any", "Any\Any.csproj", "{FE20597E-746E-4EB9-A894-3E2C3F854E1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Any", "Any\Any.csproj", "{FE20597E-746E-4EB9-A894-3E2C3F854E1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First", "First\First.csproj", "{0CF578AF-8F4E-4AF3-B787-3D0E378A1606}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First", "First\First.csproj", "{0CF578AF-8F4E-4AF3-B787-3D0E378A1606}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Last", "Last\Last.csproj", "{D4F6857F-A634-4D2A-9B92-319F2CE4BA0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Last", "Last\Last.csproj", "{D4F6857F-A634-4D2A-9B92-319F2CE4BA0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Union", "Union\Union.csproj", "{05F4F92A-4361-4BEC-BA1D-B05AC27737A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{D4F6857F-A634-4D2A-9B92-319F2CE4BA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4F6857F-A634-4D2A-9B92-319F2CE4BA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4F6857F-A634-4D2A-9B92-319F2CE4BA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F4F92A-4361-4BEC-BA1D-B05AC27737A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F4F92A-4361-4BEC-BA1D-B05AC27737A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F4F92A-4361-4BEC-BA1D-B05AC27737A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F4F92A-4361-4BEC-BA1D-B05AC27737A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
