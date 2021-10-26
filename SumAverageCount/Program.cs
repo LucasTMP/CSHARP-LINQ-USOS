@@ -17,7 +17,7 @@ namespace SumAverageCount
 
             Console.WriteLine(arr.Sum()); // 6
             Console.WriteLine(arr.Average()); // 2
-            Console.WriteLine(arr.Count()); // 3
+            Console.WriteLine(arr.Count()); // 3 //
         }
 
         public static void SACComCondicoes()
